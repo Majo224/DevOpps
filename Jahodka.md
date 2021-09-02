@@ -5,4 +5,5 @@ Jahodka je:
 *fajna*
 **dobra**
 ***cervena***
-
+bombova
+*zdrava*
