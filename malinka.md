@@ -1,0 +1,4 @@
+Malinka je sladka. 
+
+cervena
+
